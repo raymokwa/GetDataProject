@@ -1,4 +1,3 @@
-
 ## Read test and training data
 
 The test and training data from the ./ directory (as specified in the instruction are read. The X and Y correspond to the variable data and the activity data. 
@@ -179,5 +178,4 @@ The following list describes the names of the variables presented in the final d
 [86] "fBodyBodyAccJerkMag-std()"           
 [87] "fBodyBodyGyroMag-std()"              
 [88] "fBodyBodyGyroJerkMag-std()"  
-
 
